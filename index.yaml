@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mydeco:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-31T22:08:57.028420838Z"
+    description: A Helm chart for Kubernetes
+    digest: d0b961baca604727da7e8d1d4f0718ee6715b07ff1bc6a65e29309860a8ffe60
+    name: mydeco
+    type: application
+    urls:
+    - mydeco-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-31T22:08:57.027673221Z"
